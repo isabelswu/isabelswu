@@ -2,5 +2,5 @@
 
 I'm Isabel Wu (she/her), an undergrad at Carnegie Mellon University currently pursuing a bachelor's degree in Computer Science. 
 
-- Experience in Java, Python, C, R
+- Experience in Java, Python, C
 - 📫 isabelw@andrew.cmu.edu
